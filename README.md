@@ -1,7 +1,8 @@
 # Welecome to mt finished copy of my portfolio for ICS4U
 This will include all my 10 moudules 
 Here is the link to my site: https://amrbakouban.github.io/Portfolio-/
-Here is the link to my p5.js code https://editor.p5js.org/amrbakouban/sketches/jsFrPRS-b
+Here is the link to my p5.js code: https://editor.p5js.org/amrbakouban/sketches/jsFrPRS-b
+Here is the link to my video interview: https://github.com/amrbakouban/lab-starter
 
 For every module, I will include a brief summary explaining my experience with the completion of the module
 
